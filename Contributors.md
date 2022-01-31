@@ -1,5 +1,12 @@
 # Contributors
 
+#### Name: [Ryan Siegenthaler](https://github.com/ryandsiegenthaler
+)
+- Place: Las Vegas, Nevada
+- Like: anime (Cowboy Bepop all time fave) , skateboarding, coding of course, and chilling with my pup. 
+- Github: [RyanDSiegenthaler](https://github.com/ryandsiegenthaler)
+
+
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
 - Bio: Programmer who loves watching Mr.Robot 🤖
